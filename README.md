@@ -1,10 +1,10 @@
 <div align="center">
   
-  [![Self Presentation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=6cb52d&vCenter=true&width=510&lines=Sup%2C+I'm+Samuel+Junior;Can+see+more+about+me%3F+Explore+my+profile!)](https://git.io/typing-svg)
+  [![Self Presentation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=2000&color=1EFF05&random=false&width=435&lines=Sup%2C+I'm+Samuel+Junior!;Can+see+more+about+me%3F+Explore+my+profile!)](https://git.io/typing-svg)
 </div>
 
 <div align="center"">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact" width="300" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Samuel-Junior21&theme=chartreuse-dark&show_icons=true">
 <br>
 
 </div>
