@@ -1,6 +1,6 @@
 ### Hi there 👋
  [![Self Presentation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=6cb52d&vCenter=true&width=510&lines=Sup%2C+I'm+Samuel+Junior;Can+see+more+about+me%3F+Explore+my+profile!)](https://git.io/typing-svg)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact" width="300" alt="Languag
 <!--
 **Samuel-Junior21/Samuel-Junior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
