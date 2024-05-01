@@ -5,6 +5,7 @@
 
 <div align="center"">
 <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Junior21&theme=chartreuse-dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact&theme=chartreuse-dark"/>
 <br>
 
 </div>
