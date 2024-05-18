@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/samuel-junior-a5775a303">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
 </div>
 
 <div style="display: flex; flex-direction: column;" align="center">
