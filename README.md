@@ -4,11 +4,14 @@
 </div>
 
 <div align="center"">
-<img src="https://github-readme-stats.vercel.app/api?username=Samuel-Junior21&theme=chartreuse-dark&show_icons=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Junior21&theme=chartreuse-dark" alt="mystreak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact&theme=chartreuse-dark"/>
 <br>
 
 </div>
+
+<p></p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
     <h3>Social Medias</h3>
