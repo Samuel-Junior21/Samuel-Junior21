@@ -4,8 +4,8 @@
 </div>
 
 <div align="center"">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Junior21&theme=chartreuse-dark" alt="mystreak"/> <p></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Junior21&theme=tokyonight" alt="mystreak"/> <p></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Junior21&layout=compact&theme=tokyonight"/>
 <br>
 
 </div>
